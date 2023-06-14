@@ -1,2 +1,2 @@
 # FinalTest
-Trabajo Final de clase de Programaciòn Web Inicial
+Trabajo Final de clase de Programación Web Inicial
